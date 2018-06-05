@@ -4,7 +4,7 @@
 
 ____
 ### Alfabetización digital, ciudadanía y seguridad en la red
-* [Alfabetización digital, ciudadanía y seguridad en red](index.md)
+* [Alfabetización digital, ciudadanía y seguridad en red](index22.md)
 	* [Objetivos](objetivos.md)
 	* [Alfabetización digital](alfabetizacin_digital.md)
 		* [Lenguaje](lenguaje.md)
@@ -79,3 +79,6 @@ ____
 		* [Creación de material de apoyo para las actividades con dispositivos móviles](creacin_de_material_de_apoyo_para_las_actividades_con_dispositivos_mviles.md)
 		* [Evaluación](evaluacin15.md)
 	* [Referencias y recursos para profundizar](referencias_y_recursos_para_profundizar16.md)
+
+___
+* [Créditos](crditos-buenos.md)
