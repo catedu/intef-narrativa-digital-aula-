@@ -1,0 +1,3 @@
+# Herramientas y consejos para la edición de vídeo
+
+Tras la creación del vídeo, debemos pasar a editarlo. Disponemos de diversos editores de vídeo gratuitos que permiten añadir efectos especiales, filtros, música, subtítulos, créditos, etc. El proceso de edición ayuda a los alumnos a revisar sus productos con ojo crítico y a reflexionar sobre la historia que están creando, determinando qué elementos funcionarán mejor para contarla.

@@ -1,0 +1,5 @@
+# Proyectos de escritura con cómics
+
+Cuando el alumnado crea tiras de cómic, están creando textos breves pero también pueden crear textos más lagos o complejos utilizando creadores de cómic como [Pixton](https://www.pixton.com/es/) o [ComicMaster](http://www.comicmaster.org.uk/), que lleva a los alumnos a través del proceso de creación de una novela gráfica. 
+
+Otra idea es hacer que la clase cree un libro de cómic en colaboración. El profesor distribuirá a los alumnos en parejas y asignará un fragmento del cómic a cada una de ellas; les dará un tema y una lista de personajes y asignará una parte del argumento a cada pareja. Usando luego una herramienta como Google Docs, los alumnos podrán subir sus fragmentos para montar la historia completa. Esta actividad puede servir para visualizar un momento histórico como los años 20 o contar una historia como la de Caperucita Roja.

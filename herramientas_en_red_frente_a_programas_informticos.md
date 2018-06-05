@@ -1,0 +1,3 @@
+# Herramientas en red frente a programas informáticos
+
+Muchas herramientas en la red contienen herramientas de edición básicas, como la posibilidad de editar escenas o personajes. Los programas de escritorio como Kdenlive, iMovie o Windows Movie Maker ofrecen opciones de edición más avanzadas que permiten introducir transiciones, créditos, etc. y pueden utilizarse sin conexión a internet, lo que representa un beneficio añadido.

@@ -1,0 +1,5 @@
+# Tareas grupales
+
+Cada alumno debe recibir una tarea y responsabilidades de acuerdo con el proyecto. Por ejemplo, ya que un proyecto de narración en vídeo debería incluir la necesidad de editar, escribir un guion y añadir materiales, al crear el proyecto cooperativo debemos diseñar estas tareas y permitir a los miembros del grupo decidir cuáles desean realizar. También es posible dar un tiempo al alumnado para decidir en una lluvia de ideas cuáles son las tareas a realizar y luego delinear las responsabilidades de cada miembro.
+
+Podéis ver más sugerencias sobre el agrupamiento eficaz en [este artículo](http://justificaturespuesta.com/aprendizaje-cooperativo-como-formar-equipos-de-aprendizaje-en-clase/), así como en este otro (en inglés) [Benne and Sheats' Group Roles: ](http://www.mindtools.com/pages/article/newTMM_85.htm#sthash.gvro2F8H.dpufhttp://www.mindtools.com/pages/article/newTMM_85.htm)[Identifying Both Positive and Negative Group Behavior Roles](http://www.mindtools.com/pages/article/newTMM_85.htm#sthash.gvro2F8H.dpufhttp://www.mindtools.com/pages/article/newTMM_85.htm).

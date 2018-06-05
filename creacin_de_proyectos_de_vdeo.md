@@ -1,0 +1,3 @@
+# Creación de proyectos de vídeo
+
+## Alumnos y profesores disponen de multitud de opciones para la creación de historias en vídeo. Decidirse por una u otra opción dependerá de las limitaciones de tiempo, del acceso a Internet, de los materiales disponibles y lo que las familias hayan permitido según la Política de uso responsable. Si no es posible acceder a Internet pueden utilizarse programas como [Kdenlive](https://kdenlive.org/), [iMovie](https://www.apple.com/es/imovie/ "imovies") y [Windows Movie Maker](https://www.windows-movie-maker.org/ "wmovie maker") o aplicaciones de creación de vídeo que no requieran conexión a Internet (en el caso de que el alumnado pueda utilizar sus dispositivos móviles).
