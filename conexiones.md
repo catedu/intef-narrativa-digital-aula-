@@ -12,10 +12,9 @@ _"Por primera vez en la historia, ahora sabemos cómo almacenar prácticamente 
 
 Podemos ayudar a nuestros alumnos a conectarse con expertos en una materia (SMEs), autores y mentores que les apoyen en sus intereses y alimenten sus pasiones.
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
+
+
+

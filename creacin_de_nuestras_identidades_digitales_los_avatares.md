@@ -39,4 +39,3 @@ Se puede pedir a los alumnos que cuenten un hecho histórico o representen e ilu
 
 En [este otro Symbaloo](https://formacionintef.symbaloo.com/mix/creaciondecomic1), podréis encontrar más herramientas de creación de cómics. 
 
-Guardar

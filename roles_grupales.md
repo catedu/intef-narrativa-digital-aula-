@@ -18,14 +18,13 @@ Otra posible organización de roles es la propuesta en el **MOOC [Aprendizaje Co
 ![](img/cooperamooc.02.distribuye.roles.png)
 
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
+
+
+
+
+

@@ -12,7 +12,7 @@ Desafortunadamente, muchas escuelas en todo el mundo no permiten al alumnado lle
 
 Incorporar proyectos de narración digital con nuestro alumnado les obligará a moverse por la red, buscar material online para remezclar en sus historias digitales y compartir sus creaciones con gente que nunca han visto en persona. Para ello, es necesario dotarles de las habilidades correctas para desarrollar estas tareas de forma segura e inteligente, evitando en la medida de lo posible situaciones que dañen la seguridad física y psíquica de nuestro alumnado.  
 
-Guardar
+
 
 **Para saber más:**
 

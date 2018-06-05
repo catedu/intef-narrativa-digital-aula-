@@ -26,14 +26,13 @@ Las wikis son sitios de colaboración que permiten que otras personas se unan y 
 
 Captura de [Voicethread Progressive Story: Tim, Dave and Squeaker's Adventure and Mr. Bobs Rescue](https://voicethread.com/share/1104530/) (Ditzler, 2011)
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
+
+
+
+
+

@@ -10,11 +10,11 @@ En la imagen, "mensajes de texto", "codificación" y "móvil" son algunas de las
 
 Más aún, hablar con dispositivos digitales implica que perdamos la posibilidad de leer el lenguaje corporal y escuchar patrones vocales y de entonación. Parte del significado se deriva de nuestro conocimiento de las emociones tras el lenguaje, así que expresiones como LOL o OMG se usan a menudo en los mensajes de texto para darnos pistas y los emoticonos se usan también en chats y actualizaciones de estado con el mismo objetivo. Muchas personas han adoptado ya estas adaptaciones de nuestra lengua de tal forma que ya estamos empezando a ver estos cambios en la lengua oral ([Crystal, 2009](http://www.youtube.com/watch?v=h79V_qUp91M)).
 
-Guardar
 
-Guardar
 
-Guardar
+
+
+
 
 Los alumnos deben darse cuenta de que el lenguaje y la comunicación cambian cuando utilizamos herramientas digitales. En primer lugar, hay una mayor probabilidad de confusiones porque no obtenemos información no verbal, lo que significa que deben evaluar lo que leen en la red y tomarse un tiempo en descodificar el significado. Nuestros alumnos deben también aprender a generar sus mensajes de forma que no sean entendidos de forma incorrecta.
 

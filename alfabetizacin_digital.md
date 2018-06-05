@@ -8,4 +8,3 @@ La alfabetización digital implica navegar en la red con ojo crítico. En el lib
 
 Ilustración 1.1 Esta imagen se ha adaptado de una similar perteneciente al libro _Digital Literacies._ Cita: Dudeney, G., N. Hockly, y M. Pegrum. (2013). _Digital Literacies._ Harlow: Pearson. 
 
-Guardar

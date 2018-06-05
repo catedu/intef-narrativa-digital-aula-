@@ -10,22 +10,21 @@ Captura de pantalla de [la historia en Voicethread de la clase de Michele Clare]
 
 Podéis saber más sobre cómo organizar una historia colaborativa con alumnado joven en la presentación de Michelle Worgan [Collaborating with Kids! Setting Up Online Projects for Young Learners](http://www.slideshare.net/shelliscfc/collaborating-with-kids) y [leyendo su artículo con información detallada](http://inspireyourlearners.blogspot.com/2013/05/collaborating-with-kids-my-vrt.html) (en inglés).
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
+
+
+
+
+
+
+
+
+

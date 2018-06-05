@@ -3,7 +3,7 @@
 * [Introducción](README.md)
 
 ____
-### EA_NarraMarzo18: Alfabetización digital, ciudadanía y seguridad en la red
+### Alfabetización digital, ciudadanía y seguridad en la red
 * [Alfabetización digital, ciudadanía y seguridad en red](index.md)
 	* [Objetivos](objetivos.md)
 	* [Alfabetización digital](alfabetizacin_digital.md)
@@ -16,7 +16,9 @@ ____
 	* [Seguridad en  red](seguridad_en__red.md)
 		* [Trabajo con las familias para la seguridad de los hijos](trabajo_con_las_familias_para_la_seguridad_de_los_hijos.md)
 	* [Referencias](referencias.md)
-### EA_NarraMarzo18: Compartiendo historias a través de cómics
+
+
+### Compartiendo historias a través de cómics
 * [Narración digital con cómics](index0.md)
 	* [Introducción](introduccin.md)
 	* [Objetivos](objetivos1.md)
@@ -27,7 +29,9 @@ ____
 		* [Proyectos de escritura con cómics](proyectos_de_escritura_con_cmics.md)
 		* [Evaluación](evaluacin.md)
 	* [Referencias y recursos para profundizar](referencias_y_recursos_para_profundizar.md)
-### EA_NarraMarzo18: Compartir historias a través de la narración en vídeo
+
+
+### Compartir historias a través de la narración en vídeo
 * [Narración en vídeo](index2.md)
 	* [Introducción](introduccin3.md)
 	* [Objetivos](objetivos4.md)
@@ -41,7 +45,9 @@ ____
 		* [Añadir efectos especiales mediante aplicaciones](aadir_efectos_especiales_mediante_aplicaciones.md)
 	* [Evaluación](evaluacin5.md)
 	* [Referencias y recursos para profundizar](referencias_y_recursos_para_profundizar6.md)
-### EA_NarraMarzo18: Narrativa digital en colaboración
+
+
+### Narrativa digital en colaboración
 * [Narración digital cooperativa](index7.md)
 	* [Introducción](introduccin8.md)
 	* [Objetivos](objetivos9.md)
@@ -54,7 +60,9 @@ ____
 		* [Tareas grupales](tareas_grupales.md)
 		* [Evaluación](evaluacin10.md)
 	* [Referencias y recursos para profundizar](referencias_y_recursos_para_profundizar11.md)
-### EA_NarraMarzo18: Narrativa digital con dispositivos móviles
+
+
+### Narrativa digital con dispositivos móviles
 * [Narración digital con dispositivos móviles](index12.md)
 	* [Introducción](introduccin13.md)
 	* [Objetivos](objetivos14.md)

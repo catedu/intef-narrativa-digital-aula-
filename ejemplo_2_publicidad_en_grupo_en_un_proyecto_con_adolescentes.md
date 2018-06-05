@@ -43,20 +43,19 @@ Captura de [las historias y comerciales en Lionit](http://linoit.com/users/shell
 
 Podéis ver otro ejemplo de narración cooperativa en [esta unidad para que el alumnado cree un mito cultural en grupos](http://alex.state.al.us/lesson_view.php?id=30065) donde se explica la evaluación, consejos de agrupamiento y objetivos entre otros elementos (en inglés). Dees, 2012.
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
 
-Guardar
+
+
+
+
+
+
+
+

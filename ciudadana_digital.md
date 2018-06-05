@@ -8,4 +8,3 @@ Como hemos dicho anteriormente, la narración digital implica remezclar contenid
 
 La organización [Creative Commons](https://creativecommons.org/) ha creado [este cómic para explicar los derechos de autor a los alumnos](https://wiki.creativecommons.org/wiki/Sharing_Creative_Works).(en inglés). También puedes ver una explicación de estas licencias en formato cómic en el blog de [Carlos Solís.](https://azkware.files.wordpress.com/2010/08/nerdson216es.png) Generalmente el permiso de uso de imágenes va desde el dominio público (cualquiera puede usarlo) a imágenes con copyright que requieren permiso de uso. Las licencias Creative Commons garantizan permiso por adelantado y todas ellas incluyen la atribución, lo que significa que siempre debe darse crédito al autor.
 
-Guardar

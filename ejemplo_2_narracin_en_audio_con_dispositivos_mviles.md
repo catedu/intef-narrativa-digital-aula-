@@ -8,4 +8,3 @@ En esta actividad, el alumnado utiliza la app gratuita para IOS/Android [Audiobo
 
 Captura del desarrollo didáctico de la unidad: _Mi destino vacacional favorito_
 
-Guardar

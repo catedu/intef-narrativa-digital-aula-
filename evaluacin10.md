@@ -14,8 +14,7 @@ Captura del boletín cooperativo propuesto por el [colectivo Cinética](http://w
 *   [Varias rúbricas para proyectos de Kathy Schrock](http://www.schrockguide.net/assessment-and-rubrics.html)
 *   Formulario de autoevaluación y evaluación entre pares [para alumnado trabajando en grupo para la creación de un mito cultural](http://alex.state.al.us/lesson_view.php?id=30065) (la ficha está en el enlace) Dees, 2012.
 
-Guardar
 
-Guardar
 
-Guardar
+
+

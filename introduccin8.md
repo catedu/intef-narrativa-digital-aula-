@@ -6,4 +6,3 @@ A lo largo del proceso de cooperación, el alumnado tendrá que utilizar mecanis
 
 En este módulo ofreceremos consejos, herramientas e ideas para promover una colaboración eficaz y significativa.  
 
-Guardar
