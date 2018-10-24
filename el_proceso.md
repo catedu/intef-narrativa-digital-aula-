@@ -5,6 +5,7 @@ Los proyectos de narración en vídeo pueden implementarse de muchas formas dist
 El profesorado comienza a diseñar un proyecto de creación de vídeo estableciendo los objetivos y la finalidad tras el mismo. Podemos pedir a nuestro alumnado que cree un vídeo con diversos propósitos, como por ejemplo:
 
 *   recrear un hecho de la actualidad
+
 *   reflexionar sobre una historia sobre la que están aprendiendo en clase
     
 *   contextualizar un concepto difícil como un problema matemático
@@ -12,4 +13,5 @@ El profesorado comienza a diseñar un proyecto de creación de vídeo establecie
 *   investigar y analizar hechos o figuras históricas
     
 *   intercambiar información sobre sí mismos con sus compañeros
+
 *   explorar vocabulario o temas de estudio nuevos
