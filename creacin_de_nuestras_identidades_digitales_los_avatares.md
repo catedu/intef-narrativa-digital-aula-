@@ -38,4 +38,3 @@ Hay muchas páginas gratuitas de creación de avatares para los alumnos, como lo
 Se puede pedir a los alumnos que cuenten un hecho histórico o representen e ilustren un hecho de un texto, de forma que el avatar deberá representar un personaje o figura histórica. En este caso, se podrían utilizar herramientas como [GoAnimate](http://goanimate.com/), [Voki](http://www.voki.com/), o [Creaza](http://www.creazaeducation.com/), que tienen una galería de personajes famosos. 
 
 En [este otro Symbaloo](https://formacionintef.symbaloo.com/mix/creaciondecomic1), podréis encontrar más herramientas de creación de cómics. 
-

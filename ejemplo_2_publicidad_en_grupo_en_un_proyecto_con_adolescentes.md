@@ -31,7 +31,9 @@ Una de las profesoras, [Marijana Smolcec](http://twitter.com/mscro1), grabó la 
 *   Producción/edición de los anuncios
 
 *   Presentación de los anuncios
-    
+
+{% youtube %} https://youtu.be/gjqay1lEthA {% endyoutube %}
+        
 
 Las historias de estos grupos de Eslovenia y Croacia se recopilaron en [LinoIt](http://linoit.com/users/shellterrell/canvases/0bject%20Stories) y [Padlet](http://padlet.com/wall/iaic5vzly6). Ambos son sitios gratuitos colaborativos que funcionan como un tablón de notas adhesivas. El docente puede iniciar el tablón y así permitir que el alumnado suba imágenes, vídeos, enlaces y comentarios a través de notas sin necesidad de registrarse a no ser que se haya seleccionado esa opción; simplemente se hace clic sobre el muro y se envía.
 

@@ -1,3 +1,2 @@
 # Identidad digital y expresión mediante cómics
-
-## Los cómics proporcionan a nuestros alumnos una forma eficaz de expresarse ya que ven a los personajes como simples dibujos. Un alumno que esté teniendo problemas con un acosador podría preferir expresarlo en un cómic en lugar de en una conversación con un adulto; el mundo del cómic es más accesible, así que muchos jóvenes encontrarán en ellos una forma sencilla de expresarse a través de un personaje.
+Los cómics proporcionan a nuestros alumnos una forma eficaz de expresarse ya que ven a los personajes como simples dibujos. Un alumno que esté teniendo problemas con un acosador podría preferir expresarlo en un cómic en lugar de en una conversación con un adulto; el mundo del cómic es más accesible, así que muchos jóvenes encontrarán en ellos una forma sencilla de expresarse a través de un personaje.

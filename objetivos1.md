@@ -1,6 +1,6 @@
 # Objetivos
 
-# En el bloque 2_:_ _Compartir historias mediante cómics,_ vamos a:
+En el bloque 2_:_ _Compartir historias mediante cómics,_ vamos a:
 
 *   familiarizarnos con algunas herramientas de creación de cómics
 *   aprender a crear cómics con esas herramientas
